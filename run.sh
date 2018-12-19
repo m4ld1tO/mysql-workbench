@@ -12,7 +12,7 @@ fi
 ###################################################
 #### ---- Change this only to use your own ----
 ###################################################
-ORGANIZATION=openkbs
+ORGANIZATION=felibench
 baseDataFolder="$HOME/data-docker"
 
 ###################################################

@@ -15,7 +15,7 @@ DOCKERFILE=${1:-Dockerfile}
 ###################################################
 #### ---- Change this only if want to use your own
 ###################################################
-ORGANIZATION=openkbs
+ORGANIZATION=felibench
 
 ###################################################
 #### ---- Detect docker ----
